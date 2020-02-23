@@ -22,7 +22,7 @@ require_once(SERVER_ROOT . 'modells/' . 'db.php');
 	<h1>Üdv az oldalon, kérlek válassz egy menüpontot:<br><br>
 	<a href="views/home.php" class="btn btn-outline-info btn-lg" role="button" aria-pressed="true">Kezdőlap</a>
 	<a href="views/contact.php" class="btn btn-outline-info btn-lg" role="button" aria-pressed="true">Kapcsolat</a>
-	<a href="http://localhost/webdev/futureweb/labastibor/views/home.php#section3" class="btn btn-outline-info btn-lg" role="button" aria-pressed="true">Készítő</a>
+	<a href="https://www.linkedin.com/in/l%C3%A1bas-tibor-bence-a92935197/" class="btn btn-outline-info btn-lg" role="button" aria-pressed="true">Készítő</a>
 	</h1>
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
